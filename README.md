@@ -1,12 +1,3 @@
 # frontend-jQuery2-ic
 
-You can do all of these problems on the same HTML/CSS/JS page
-
-### Problem 1:
-Console log the contents of an array with three names.
-
-### Problem 2:
-Press spacebar to change the image in a picture
-
-### Problem 3:
-When you focus on an object and it disappears, onblur it should come back
+Use the provided HTML file to answer all of the provided JavaScript questions in the js.js file. The jQuery file is attached as well. Properly connect it to your HTML file.
